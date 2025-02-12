@@ -6,7 +6,6 @@ Description: A Python module that automates key data processing tasks, including
 - Univariate and bivariate statistical calculations
 - Generating visualizations for data exploration
 - Technologies: Python, Pandas, Matplotlib, Seaborn
-- GitHub Repository: [Link to Repo]
  
 ## Project: LLM Creation | Building an LLM from Scratch (In Progress)
 Description: An ongoing project where I am developing a foundational Large Language Model (LLM). This includes:
@@ -14,5 +13,4 @@ Description: An ongoing project where I am developing a foundational Large Langu
 - Implementing transformers and attention mechanisms
 - Training and fine-tuning the model
 - Technologies: Python, TensorFlow, PyTorch, Hugging Face Transformers
-- GitHub Repository: [Link to Repo]
-- Colab Notebook: [Link to Google Colab]
+- Colab Notebook: https://colab.research.google.com/drive/1UfdtLmHUz4joUmzmwNc6T9J6QmRruZ5w?usp=sharing
